@@ -597,4 +597,5 @@
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
   
   <project path="device/motorola/falcon" name="device_motorola_falcon" remote="dream"
+ 
 </manifest>
